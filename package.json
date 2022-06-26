@@ -1,14 +1,27 @@
 {
-  "name": "static-site",
+  "name": "markdown-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "markdown generator",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Ashley Darr",
   "license": "ISC",
   "dependencies": {
     "inquirer": "^6.3.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dashley2/markdowngenerator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/dashley2/markdowngenerator/issues"
+  },
+  "homepage": "https://github.com/dashley2/markdowngenerator#readme",
+  "keywords": [
+    "markdown",
+    "generator"
+  ]
 }
